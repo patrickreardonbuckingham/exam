@@ -1,0 +1,14 @@
+﻿'ConsoleApplication2.exe' (Win32): Loaded 'C:\Users\patre\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe'. Symbols loaded.
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3720 has exited with code 0 (0x0).
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'ConsoleApplication2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x4988 has exited with code 0 (0x0).
+The thread 0x2a5c has exited with code 0 (0x0).
+The program '[22476] ConsoleApplication2.exe' has exited with code 0 (0x0).
